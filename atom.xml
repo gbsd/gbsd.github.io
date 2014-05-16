@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gbsd.github.io/atom.xml" rel="self"/>
   <link href="http://gbsd.github.io/"/>
-  <updated>2014-05-16T11:53:50-04:00</updated>
+  <updated>2014-05-16T14:50:39-04:00</updated>
   <id>http://gbsd.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,167 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Web Development]]></title>
+    <link href="http://gbsd.github.io/blog/2014/05/16/web-development/"/>
+    <updated>2014-05-16T14:49:02-04:00</updated>
+    <id>http://gbsd.github.io/blog/2014/05/16/web-development</id>
+    <content type="html"><![CDATA[<h1>Hosting</h1>
+
+<ul>
+<li>Heroku</li>
+<li>GitHub Pages</li>
+<li>Engine Yard</li>
+<li>Google App Engine</li>
+<li>Windows Azure</li>
+<li>Amazon Web Services</li>
+</ul>
+
+
+<h1>Editor</h1>
+
+<ul>
+<li>Dillinger</li>
+<li>Cloud 9 IDE</li>
+<li>Brackets</li>
+</ul>
+
+
+<h1>Static Site</h1>
+
+<ul>
+<li>Jekyll</li>
+<li>Octopress</li>
+</ul>
+
+
+<h1>Web Framework</h1>
+
+<ul>
+<li>Ruby on Rails</li>
+<li>Sinatra</li>
+<li>Node.js</li>
+<li>Dart</li>
+<li>Play</li>
+<li>Grape</li>
+</ul>
+
+
+<h1>Lightweight CMS</h1>
+
+<ul>
+<li>Nesta CMS</li>
+<li>Radiant CMS</li>
+</ul>
+
+
+<h1>Frontend Framework</h1>
+
+<ul>
+<li>Bootstrap</li>
+<li>Foundation</li>
+<li>Semantic UI</li>
+</ul>
+
+
+<h1>Workflow</h1>
+
+<ul>
+<li>Yeoman</li>
+</ul>
+
+
+<h1>Version Control</h1>
+
+<ul>
+<li>Git</li>
+</ul>
+
+
+<h1>Stylesheet</h1>
+
+<ul>
+<li>SCSS/SASS</li>
+<li>LESS</li>
+<li>Stylus</li>
+<li>Compass</li>
+</ul>
+
+
+<h1>JavaScript</h1>
+
+<ul>
+<li>CoffeeScript</li>
+</ul>
+
+
+<h1>HTML</h1>
+
+<ul>
+<li>Markdown</li>
+<li>Textile</li>
+</ul>
+
+
+<h1>Data Store</h1>
+
+<ul>
+<li>Postgres</li>
+<li>Hadoop</li>
+<li>Memcached</li>
+<li>MongoDB</li>
+<li>Redis</li>
+</ul>
+
+
+<h1>Search</h1>
+
+<ul>
+<li>Solr</li>
+<li>Elasticsearch</li>
+</ul>
+
+
+<h1>Message Queue</h1>
+
+<ul>
+<li>IronQueue</li>
+<li>Amazon Simple Queue Service</li>
+</ul>
+
+
+<h1>Analytics/Monitoring</h1>
+
+<ul>
+<li>New Relic</li>
+</ul>
+
+
+<h1>Continuous Integration</h1>
+
+<ul>
+<li>Jenkins</li>
+</ul>
+
+
+<h1>Web Server</h1>
+
+<ul>
+<li>NGinx</li>
+<li>Rack</li>
+</ul>
+
+
+<h1>Application Server</h1>
+
+<ul>
+<li>Jetty</li>
+<li>Passenger</li>
+<li>Puma</li>
+</ul>
+
+]]></content>
+  </entry>
   
 </feed>
