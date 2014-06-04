@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gbsd.github.io/atom.xml" rel="self"/>
   <link href="http://gbsd.github.io/"/>
-  <updated>2014-05-26T13:13:04-04:00</updated>
+  <updated>2014-06-04T09:55:37-04:00</updated>
   <id>http://gbsd.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -35,6 +35,7 @@
 
 <ul>
 <li>Dillinger</li>
+<li>StackEdit</li>
 <li>Cloud 9 IDE</li>
 <li>Brackets</li>
 <li>CodePen</li>
