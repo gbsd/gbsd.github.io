@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gbsd.github.io/atom.xml" rel="self"/>
   <link href="http://gbsd.github.io/"/>
-  <updated>2014-06-04T09:55:37-04:00</updated>
+  <updated>2014-06-05T12:50:23-04:00</updated>
   <id>http://gbsd.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Web Development]]></title>
-    <link href="http://gbsd.github.io/blog/2014/05/16/web-development/"/>
-    <updated>2014-05-16T14:49:02-04:00</updated>
-    <id>http://gbsd.github.io/blog/2014/05/16/web-development</id>
+    <title type="html"><![CDATA[Web_development]]></title>
+    <link href="http://gbsd.github.io/blog/2014/06/05/web-development/"/>
+    <updated>2014-06-05T12:49:02-04:00</updated>
+    <id>http://gbsd.github.io/blog/2014/06/05/web-development</id>
     <content type="html"><![CDATA[<h2>Hosting</h2>
 
 <ul>
@@ -39,6 +39,7 @@
 <li>Cloud 9 IDE</li>
 <li>Brackets</li>
 <li>CodePen</li>
+<li>JS Bin</li>
 </ul>
 
 
