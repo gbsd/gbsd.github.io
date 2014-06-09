@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gbsd.github.io/atom.xml" rel="self"/>
   <link href="http://gbsd.github.io/"/>
-  <updated>2014-06-09T13:47:40-04:00</updated>
+  <updated>2014-06-09T14:02:23-04:00</updated>
   <id>http://gbsd.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -134,6 +134,7 @@
 <li>Memcached</li>
 <li>MongoDB</li>
 <li>Redis</li>
+<li>CouchDB</li>
 </ul>
 
 
