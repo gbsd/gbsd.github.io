@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gbsd.github.io/atom.xml" rel="self"/>
   <link href="http://gbsd.github.io/"/>
-  <updated>2014-06-09T14:02:23-04:00</updated>
+  <updated>2014-06-09T14:09:26-04:00</updated>
   <id>http://gbsd.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -135,6 +135,7 @@
 <li>MongoDB</li>
 <li>Redis</li>
 <li>CouchDB</li>
+<li>Firebase</li>
 </ul>
 
 
@@ -226,6 +227,13 @@
 <li>Protocol Buffers</li>
 <li>YAML</li>
 <li>JSON</li>
+</ul>
+
+
+<h2>Mobile</h2>
+
+<ul>
+<li>Parse</li>
 </ul>
 
 ]]></content>
