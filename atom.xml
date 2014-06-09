@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gbsd.github.io/atom.xml" rel="self"/>
   <link href="http://gbsd.github.io/"/>
-  <updated>2014-06-09T16:11:57-04:00</updated>
+  <updated>2014-06-09T16:13:59-04:00</updated>
   <id>http://gbsd.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -136,6 +136,8 @@
 <li>MongoDB</li>
 <li>Redis</li>
 <li>CouchDB</li>
+<li>Firebase</li>
+<li>Dropbox Datastore API</li>
 </ul>
 
 
@@ -236,7 +238,6 @@
 <li>Parse</li>
 <li>Kinvey</li>
 <li>GoInstant</li>
-<li>Firebase</li>
 </ul>
 
 ]]></content>
