@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gbsd.github.io/atom.xml" rel="self"/>
   <link href="http://gbsd.github.io/"/>
-  <updated>2014-06-11T10:25:54-04:00</updated>
+  <updated>2014-06-11T10:42:17-04:00</updated>
   <id>http://gbsd.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -65,6 +65,7 @@
 <li>ASP.NET MVC</li>
 <li>Spring</li>
 <li>Merb</li>
+<li>Tapestry</li>
 </ul>
 
 
