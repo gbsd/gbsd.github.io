@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gbsd.github.io/atom.xml" rel="self"/>
   <link href="http://gbsd.github.io/"/>
-  <updated>2014-06-11T14:39:38-04:00</updated>
+  <updated>2014-06-11T14:56:07-04:00</updated>
   <id>http://gbsd.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -20,11 +20,15 @@
     <id>http://gbsd.github.io/blog/2014/06/11/learn-germany</id>
     <content type="html"><![CDATA[<h2>The Alphabet</h2>
 
-<p>A to Z, plus the following:
-*  Ä ä
-*  Ö ö
-*  Ü ü
-*  ß</p>
+<p>A to Z, plus the following:</p>
+
+<ul>
+<li>Ä ä</li>
+<li>Ö ö</li>
+<li>Ü ü</li>
+<li>ß</li>
+</ul>
+
 ]]></content>
   </entry>
   
