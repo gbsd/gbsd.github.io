@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gbsd.github.io/atom.xml" rel="self"/>
   <link href="http://gbsd.github.io/"/>
-  <updated>2014-06-12T14:11:38-04:00</updated>
+  <updated>2014-06-12T14:13:28-04:00</updated>
   <id>http://gbsd.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -49,10 +49,14 @@
 
 <h2>IE</h2>
 
-<p>Pronounced [i:]
-* die: <em>the</em>
-* Diesel: <em>diesel</em>
-* sieben: <em>seven</em></p>
+<p>Pronounced [i:]</p>
+
+<ul>
+<li>die: <em>the</em></li>
+<li>Diesel: <em>diesel</em></li>
+<li>sieben: <em>seven</em></li>
+</ul>
+
 
 <h2>AU</h2>
 
@@ -220,7 +224,6 @@
 
 <ul>
 <li>Hitze: <em>heat</em></li>
-<li></li>
 </ul>
 
 ]]></content>
