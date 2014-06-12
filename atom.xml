@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gbsd.github.io/atom.xml" rel="self"/>
   <link href="http://gbsd.github.io/"/>
-  <updated>2014-06-11T14:56:07-04:00</updated>
+  <updated>2014-06-12T11:08:28-04:00</updated>
   <id>http://gbsd.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -27,6 +27,47 @@
 <li>Ö ö</li>
 <li>Ü ü</li>
 <li>ß</li>
+</ul>
+
+
+<h2>SCH</h2>
+
+<ul>
+<li>Fisch: <em>fish</em></li>
+</ul>
+
+
+<h2>EI</h2>
+
+<ul>
+<li>Eis: <em>ice</em></li>
+<li>Reis: <em>rice</em></li>
+</ul>
+
+
+<h2>AU</h2>
+
+<ul>
+<li>Haus: <em>house</em></li>
+<li>Maus: <em>mouse</em></li>
+</ul>
+
+
+<h2>W</h2>
+
+<p>Pronounced [v]</p>
+
+<ul>
+<li>Wolf: <em>wolf</em></li>
+</ul>
+
+
+<h2>V</h2>
+
+<p>Pronounced [f]</p>
+
+<ul>
+<li>Volk</li>
 </ul>
 
 ]]></content>
@@ -55,7 +96,7 @@
 <ul>
 <li>Dillinger</li>
 <li>StackEdit</li>
-<li>Cloud 9 IDE</li>
+<li>Cloud 9 Ace</li>
 <li>Brackets</li>
 <li>CodePen</li>
 <li>JS Bin</li>
