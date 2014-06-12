@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gbsd.github.io/atom.xml" rel="self"/>
   <link href="http://gbsd.github.io/"/>
-  <updated>2014-06-12T11:12:36-04:00</updated>
+  <updated>2014-06-12T11:31:12-04:00</updated>
   <id>http://gbsd.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -59,6 +59,7 @@
 
 <ul>
 <li>Wolf: <em>wolf</em></li>
+<li>Wagen: <em>car</em></li>
 </ul>
 
 
@@ -67,7 +68,8 @@
 <p>Pronounced [f]</p>
 
 <ul>
-<li>Volk</li>
+<li>Volk: <em>people</em></li>
+<li>Volkswagen</li>
 </ul>
 
 
@@ -76,8 +78,49 @@
 <p>Pronounced [ts]</p>
 
 <ul>
-<li>Zeit</li>
-<li>Schweiz</li>
+<li>Zeit: <em>time</em></li>
+<li>Schweiz: <em>Switzerland</em></li>
+</ul>
+
+
+<h2>CH</h2>
+
+<h3>ACH</h3>
+
+<ul>
+<li>Nacht: <em>night</em></li>
+<li>machen: <em>make</em></li>
+</ul>
+
+
+<h3>OCH</h3>
+
+<ul>
+<li>Woche: <em>week</em></li>
+</ul>
+
+
+<h3>UCH</h3>
+
+<ul>
+<li>Buch: <em>book</em></li>
+</ul>
+
+
+<h3>AUCH</h3>
+
+<ul>
+<li>auch: <em>also</em></li>
+</ul>
+
+
+<h3>all other CH</h3>
+
+<ul>
+<li>ich: <em>I</em></li>
+<li>mich: <em>me</em></li>
+<li>Licht: <em>light</em></li>
+<li>Milch: <em>milk</em></li>
 </ul>
 
 ]]></content>
