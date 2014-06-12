@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gbsd.github.io/atom.xml" rel="self"/>
   <link href="http://gbsd.github.io/"/>
-  <updated>2014-06-12T11:34:39-04:00</updated>
+  <updated>2014-06-12T11:38:29-04:00</updated>
   <id>http://gbsd.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -121,6 +121,7 @@
 <li>mich: <em>me</em></li>
 <li>Licht: <em>light</em></li>
 <li>Milch: <em>milk</em></li>
+<li>München: <em>Munich</em></li>
 </ul>
 
 ]]></content>
