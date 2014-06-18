@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gbsd.github.io/atom.xml" rel="self"/>
   <link href="http://gbsd.github.io/"/>
-  <updated>2014-06-18T14:59:47-04:00</updated>
+  <updated>2014-06-18T15:11:53-04:00</updated>
   <id>http://gbsd.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -55,7 +55,7 @@
 
 <ul>
 <li>die: <em>the</em></li>
-<li>Bier: <em>beer</em></li>
+<li>Bier [ˈbi:ɐ]: <em>beer</em></li>
 <li>Diesel [ˈdi:zəl]: <em>diesel</em></li>
 </ul>
 
@@ -89,7 +89,7 @@
 <p>Pronounced [f]</p>
 
 <ul>
-<li>Vater: <em>father</em></li>
+<li>Vater [ˈfa:tɐ]: <em>father</em></li>
 <li>Volk: <em>people</em></li>
 <li>Volkswagen [ˈfɔlksˌvaːɡən]</li>
 </ul>
@@ -218,7 +218,9 @@
 </ul>
 
 
-<h2>B, D, G at word end</h2>
+<h2>B, D, G</h2>
+
+<h4>at word end</h4>
 
 <p>Pronounced [p], [t], [k]</p>
 
@@ -226,6 +228,16 @@
 <li>ob: <em>if, whether</em></li>
 <li>Kind: <em>child</em></li>
 <li>Tag: <em>day</em></li>
+</ul>
+
+
+<h4>all other places (except words ending with -IG)</h4>
+
+<p>Pronounced [b], [d], [g]</p>
+
+<ul>
+<li>Bruder [ˈbru:dɐ]: <em>brother</em></li>
+<li>Garten [&lsquo;ga:ɐtən]: <em>garden</em></li>
 </ul>
 
 
