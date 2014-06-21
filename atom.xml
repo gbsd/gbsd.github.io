@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gbsd.github.io/atom.xml" rel="self"/>
   <link href="http://gbsd.github.io/"/>
-  <updated>2014-06-18T15:27:26-04:00</updated>
+  <updated>2014-06-21T14:56:55-04:00</updated>
   <id>http://gbsd.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -29,6 +29,10 @@
 <li>ß</li>
 </ul>
 
+
+<h2>IPA for German</h2>
+
+<p>[<a href="http://en.wikipedia.org/wiki/Help:IPA_for_German">http://en.wikipedia.org/wiki/Help:IPA_for_German</a>] (<a href="http://en.wikipedia.org/wiki/Help:IPA_for_German">http://en.wikipedia.org/wiki/Help:IPA_for_German</a>)</p>
 
 <h2>SCH</h2>
 
@@ -260,6 +264,16 @@
 <li>Hitze: <em>heat</em></li>
 </ul>
 
+
+<h2>EU</h2>
+
+<p>Pronounced [ɔʏ]</p>
+
+<ul>
+<li>deutsch [dɔʏtʃ]: German</li>
+<li>neun: <em>nine</em></li>
+</ul>
+
 ]]></content>
   </entry>
   
@@ -316,6 +330,7 @@
 <li>Spring</li>
 <li>Merb</li>
 <li>Tapestry</li>
+<li>Symfony</li>
 </ul>
 
 
