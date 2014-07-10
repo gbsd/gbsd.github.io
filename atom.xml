@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gbsd.github.io/atom.xml" rel="self"/>
   <link href="http://gbsd.github.io/"/>
-  <updated>2014-06-23T13:19:38-04:00</updated>
+  <updated>2014-07-10T15:27:52+00:00</updated>
   <id>http://gbsd.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Learn German]]></title>
     <link href="http://gbsd.github.io/blog/2014/06/11/learn-german/"/>
-    <updated>2014-06-11T14:02:47-04:00</updated>
+    <updated>2014-06-11T18:02:47+00:00</updated>
     <id>http://gbsd.github.io/blog/2014/06/11/learn-german</id>
     <content type="html"><![CDATA[<h2>The Alphabet</h2>
 
@@ -281,7 +281,7 @@
   <entry>
     <title type="html"><![CDATA[Web Development]]></title>
     <link href="http://gbsd.github.io/blog/2014/05/16/web-development/"/>
-    <updated>2014-05-16T12:49:02-04:00</updated>
+    <updated>2014-05-16T16:49:02+00:00</updated>
     <id>http://gbsd.github.io/blog/2014/05/16/web-development</id>
     <content type="html"><![CDATA[<h2>Hosting</h2>
 
@@ -332,6 +332,7 @@
 <li>Merb</li>
 <li>Tapestry</li>
 <li>Symfony</li>
+<li>Lift</li>
 </ul>
 
 
